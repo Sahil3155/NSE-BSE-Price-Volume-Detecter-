@@ -1,0 +1,1 @@
+# NSE-BSE-Price-Volume-Detecter-
